@@ -557,41 +557,6 @@ class MachineLearningEngineer:
 
 ---
 
----
-
-# 🏅 Professional Certifications
-
-## 🎓 Machine Learning Specialization — DeepLearning.AI (Andrew Ng)
-
-**Courses Completed**
-
-- Supervised Machine Learning: Regression and Classification
-- Advanced Learning Algorithms
-- Unsupervised Learning, Recommender Systems & Reinforcement Learning
-
-**Skills Acquired**
-
-- Linear & Logistic Regression
-- Neural Networks
-- Decision Trees
-- Ensemble Learning
-- Clustering
-- Anomaly Detection
-- Recommendation Systems
-- Reinforcement Learning Fundamentals
-
----
-
-## 🧠 Deep Learning Specialization — DeepLearning.AI (Andrew Ng)
-
-**Courses Completed**
-
-- Neural Networks and Deep Learning
-- Improving Deep Neural Networks
-- Structuring Machine Learning Projects
-- Convolutional Neural Networks
-- Sequence Models
-
 **Skills Acquired**
 
 - Deep Neural Networks
@@ -606,14 +571,6 @@ class MachineLearningEngineer:
 - GRUs
 - Attention Mechanisms
 - Transformer Fundamentals
-
----
-
-## 🤖 Additional Certifications
-
-- AI For Everyone
-- Generative AI For Everyone
-- ChatGPT Prompt Engineering for Developers
 
 ---
 
