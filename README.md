@@ -368,7 +368,6 @@ Healthcare Machine Learning
 
 </div>
 
----
 
 # 📊 Contribution Activity
 
@@ -380,15 +379,7 @@ Healthcare Machine Learning
 
 ---
 
-# 🐍 Contribution Snake
 
-> **Requires GitHub Actions**
-
-```html
-<img src="https://raw.githubusercontent.com/MuhammadTauseefShah/MuhammadTauseefShah/output/github-contribution-grid-snake-dark.svg"/>
-```
-
----
 
 # 🚀 Current Focus
 
@@ -519,16 +510,6 @@ Production AI Systems
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadTauseefShah&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
 # ⚡ Coding Activity
 
 <div align="center">
@@ -539,21 +520,10 @@ Production AI Systems
 
 ---
 
-# 🐍 Contribution Snake
-
-> Configure GitHub Actions to automatically generate this animation.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MuhammadTauseefShah/MuhammadTauseefShah/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 👾 Pacman Contribution Animation
 
-> Optional animated contribution visualization.
+> animated contribution visualization.
 
 <div align="center">
 
